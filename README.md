@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hasnode.com/mrhanji](https://hasnode.com/mrhanji)
 
-- 💬 Ask me about **Flutter,PHP,C,C++**
+- 💬 Ask me about **Flutter,PHP,C,C++,Ajax,Jquery**
 
 - 📫 How to reach me **https://instagram.com/sagar_sharma3**
 
