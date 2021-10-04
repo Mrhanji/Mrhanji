@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MyGym**
 
-- 📝 I regularly write articles on [https://hasnode.com/mrhanji](https://hasnode.com/mrhanji)
+- 📝 I regularly write articles on [https://mrhanji.hashnode.dev](https://mrhanji.hashnode.dev)
 
 - 💬 Ask me about **Flutter,PHP,C,C++,HTML,Css,Js,Ajax**
 
