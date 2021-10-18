@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagar_sharma3" target="blank"><img src="https://img.shields.io/twitter/follow/sagar_sharma3?logo=twitter&style=for-the-badge" alt="sagar_sharma3" /></a> </p>
 
-- 🔭 I’m currently working on **MyGym**
+- 🔭 I’m currently working on **Darefit **
 
 - 📝 I regularly write articles on [https://mrhanji.hashnode.dev](https://mrhanji.hashnode.dev)
 
