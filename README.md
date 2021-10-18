@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
-<h3 align="center">I m sagar sharma I m android and web developer I m very passionate about my work I do my work with full of enthusiasm I belive in actions not in words... I want to help the peoples with my thoughts and ideas</h3>
+<h3 align="center">I am Sagar Sharma, I am android and web developer I am very passionate about my work I do my work with full of enthusiasm I belive in actions not in words... I want to help the peoples with my thoughts and ideas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhanji&label=Profile%20views&color=0e75b6&style=flat" alt="mrhanji" /> </p>
 
